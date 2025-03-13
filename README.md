@@ -1,8 +1,20 @@
 ---
-description: How can we help you?
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
-# Quickstart
-
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Getting Started</td></tr><tr><td>Centre Management</td></tr><tr><td>Troubleshooting</td></tr></tbody></table>
+# 👋 Introduction
 
