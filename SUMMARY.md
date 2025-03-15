@@ -5,18 +5,15 @@
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
+* [Publishing on Roblox](getting-started/publishing-on-roblox.md)
+* [Choosing the right type](getting-started/choosing-the-right-type.md)
 
-***
+## The Next Steps
 
-* [Publishing on Roblox](publishing-on-roblox.md)
-* [Choosing the right type](choosing-the-right-type.md)
+* [Inviting your team](the-next-steps/inviting-your-team.md)
+* [Role Restrictions](the-next-steps/role-restrictions.md)
+* [Customization](the-next-steps/customization.md)
 
-## Group 1
+## Integrations
 
-* [Inviting your team](group-1/inviting-your-team.md)
-* [Role restrictions](group-1/role-restrictions.md)
-* [Customization](group-1/customization.md)
-
-## Group 2
-
-* [Discord Webhook](group-2/discord-webhook.md)
+* [Discord](integrations/discord.md)
