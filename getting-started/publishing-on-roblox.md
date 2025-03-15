@@ -94,7 +94,7 @@ You should now see your centre on your group under the **Experiences** section.
 
 <details>
 
-<summary>If you don't see <strong>Experiences on your group page</strong></summary>
+<summary>If you don't see <strong>Experiences</strong> on your group page</summary>
 
 You may have group game visibility turned off in your group settings. To fix this, click on the three dots and press **Configure community**.&#x20;
 
